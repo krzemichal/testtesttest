@@ -15,11 +15,6 @@ namespace ConsoleApp13
             
         }
 
-        void dsadas()
-        {
-
-        }
-
         void ajdhaopiusdgh()
         {
             Console.WriteLine(123);
