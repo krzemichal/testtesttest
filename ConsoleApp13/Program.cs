@@ -14,5 +14,10 @@ namespace ConsoleApp13
 
 
         }
+
+        void ajdhaopiusdgh()
+        {
+            Console.WriteLine(123);
+        }
     }
 }
