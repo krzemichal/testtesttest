@@ -12,6 +12,11 @@ namespace ConsoleApp13
         void adsdasd()
         {
 
+            
+        }
+
+        void dsadas()
+        {
 
         }
     }
