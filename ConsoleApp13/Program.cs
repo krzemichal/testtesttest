@@ -11,7 +11,7 @@ namespace ConsoleApp13
 
         void adsdasd()
         {
-
+            Console.WriteLine("test");
             
         }
 
@@ -19,5 +19,7 @@ namespace ConsoleApp13
         {
             Console.WriteLine(123);
         }
+
+        
     }
 }
